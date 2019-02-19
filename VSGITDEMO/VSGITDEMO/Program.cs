@@ -11,6 +11,8 @@ namespace VSGITDEMO
         static void Main(string[] args)
         {
             //This is the first commit.
+
+            //some more changes
         }
     }
 }
