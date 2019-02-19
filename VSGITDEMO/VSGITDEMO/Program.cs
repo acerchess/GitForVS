@@ -13,6 +13,8 @@ namespace VSGITDEMO
             //This is the first commit.
 
             //some more changes
+
+            //more changes
         }
     }
 }
